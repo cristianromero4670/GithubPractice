@@ -29,7 +29,7 @@ En este momento, es solo una copia del [repositorio original](https://github.com
 
 ## 3. Editar un Archivo
 
-En tu clon local del repositorio, abre (`README.md`) y modifica la siguiente línea cambiando "tu nombre"
+En tu clon local del repositorio, abre (`README.md`) y modifica la siguiente línea cambiando "tu nombre completo"
 
 > Soy \[Romero Gonzalez Christian Eduardo\] y edité este archivo.
 
@@ -55,7 +55,8 @@ Pero espera, hagamos más. Crea una nueva carpeta llamada `practica_git` dentro 
   </head>
 
   <body>
-    <h1>Click to get new jokes!</h1>
+    <h1>Nombre completo</h1>
+    <h2>Click to get new jokes!</h2>
     <button>Click me!</button>
     <ul id="jokes"></ul>
   </body>
